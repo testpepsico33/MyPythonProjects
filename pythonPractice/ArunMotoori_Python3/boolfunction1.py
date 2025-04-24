@@ -1,0 +1,10 @@
+
+print(bool(0))
+print(bool(6))
+print(bool(""))
+print(bool("Sample String"))
+print(bool())
+print(bool([1,2,3]))
+print(bool(None))
+print(bool(False))
+print(bool(True))
