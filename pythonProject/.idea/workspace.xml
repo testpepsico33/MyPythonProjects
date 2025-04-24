@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68dec2a9-37eb-49e8-8d82-f3a1dfea115d" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2j8lq02mTZnb3f4f47vcZxQS6xg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.AssigningMethodparametertoclassvariableusingselfKeyword.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConcatTuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Formattingprintstatement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Initializingclassvariableusingmethods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.RegularExpression1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abstractclass.executor&quot;: &quot;Run&quot;,
+    &quot;Python.args.executor&quot;: &quot;Run&quot;,
+    &quot;Python.boolfunction1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.breakandcontinue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.classandobject1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dateandtime1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.demo2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.enacpsulation1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.escapeCharacter1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exceptionhandling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filehandling1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filehandling_append.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filehandling_foreach.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filehandling_read.executor&quot;: &quot;Run&quot;,
+    &quot;Python.firstfunctions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.forloop1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.frozenset1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.getterandsetter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.if if else Short Hand.executor&quot;: &quot;Run&quot;,
+    &quot;Python.initmethod1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.iterusingcollections.executor&quot;: &quot;Run&quot;,
+    &quot;Python.kwargs1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambada1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.localandglobalvariable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.methodOverloadingisnotPossible.executor&quot;: &quot;Run&quot;,
+    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polymorphismMethodoverriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.print1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.privateVariableMethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.random1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.selfkeyword1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.staticvariablemethodinstancevariablemethod.executor&quot;: &quot;Run&quot;,
+    &quot;Python.strings1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.super1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuple1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unpackingCollectionAndRange.executor&quot;: &quot;Run&quot;,
+    &quot;Python.whileloop1.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/nimalkumar.j/PycharmProjects/Pytest&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\nimalkumar.j\PycharmProjects\pythonPractice\packmath\calpack" />
+      <recent name="C:\Users\nimalkumar.j\PycharmProjects\pythonPractice\Programpractice" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ConcatTuple">
+    <configuration name="ConcatTuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCoding_arunMoorthi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonPractice/Interview_Questions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonPractice/Interview_Questions/ConcatTuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCoding_arunMoorthi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonPractice/ArunMotoori_Python3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonPractice/ArunMotoori_Python3/demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCoding_arunMoorthi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonPractice/ArunMotoori_Python1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonPractice/ArunMotoori_Python1/demo2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kwargs1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCoding_arunMoorthi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonPractice/ArunMotoori_Python3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonPractice/ArunMotoori_Python3/kwargs1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lambada1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonCoding_arunMoorthi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../pythonPractice/ArunMotoori_Python3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../pythonPractice/ArunMotoori_Python3/lambada1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ConcatTuple" />
+        <item itemvalue="Python.demo" />
+        <item itemvalue="Python.demo2" />
+        <item itemvalue="Python.kwargs1" />
+        <item itemvalue="Python.lambada1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68dec2a9-37eb-49e8-8d82-f3a1dfea115d" name="Changes" comment="" />
+      <created>1720776771734</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1720776771734</updated>
+    </task>
+    <servers />
+  </component>
+</project>
