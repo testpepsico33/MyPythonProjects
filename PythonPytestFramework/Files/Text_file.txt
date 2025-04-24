@@ -1,0 +1,40 @@
+play played played
+
+Simple present -Subject + V1
+she plays. he plays, i play, we play, she does not play, he does not play, i do not play, you do noy play
+
+Simple past -Subject +V2
+we played , I played, they did not play, she did not play
+
+Simple future -Subject +Will +V1
+They will play, He will play, she will not Play
+
+Present perfect Subject + have/has + V3
+He has played, She has not played, we have played, I have played, They have not played
+
+Past perfect Subject + had +V3
+She had played, they had not played , I had not played
+
+Future perfect Subject + Will have +V3
+he will have played, She will have played, I will have played, She will not have played
+
+Present continuous Subject + are/is +Ving
+She is playing, We are playing, I am playing, I am not playing, They are playing, we are not playing
+
+Past continuous Subject + Were/Was +Ving
+she was playing, he was not playing, They were not playing, We were playing, I was playing 
+
+Future Continuous Subject + Will be +Ving
+She will be playing, They will be playing, he will not be playing, They will not be playing
+
+Present perfect continuous Subject + Have/Has been + Ving
+she has been playing, They have been playing, i have been playing, He has not been playing, they have not been playing
+
+Past perfect continuous Subject + Had been +Ving
+He had been playing, They had been playing, I had been playing, She had been playing, they had not been playing
+
+Future perfect continuous Subject + will have been +Ving
+She will have been playing, They will have been playing, She will have been playing, they will not have been playing 
+
+
+

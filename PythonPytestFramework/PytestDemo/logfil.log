@@ -1,0 +1,22 @@
+2024-07-09 17:58:09,185 : INFO : PytestDemo.test_logging :information statement 
+2024-07-09 17:58:09,187 : WARNING : PytestDemo.test_logging :Something is in warning mode 
+2024-07-09 17:58:09,188 : ERROR : PytestDemo.test_logging :A majore error has happened 
+2024-07-09 17:58:09,190 : CRITICAL : PytestDemo.test_logging :Critical issue 
+2024-07-09 17:58:56,657 : INFO : PytestDemo.test_logging :information statement 
+2024-07-09 17:58:56,658 : WARNING : PytestDemo.test_logging :Something is in warning mode 
+2024-07-09 17:58:56,659 : ERROR : PytestDemo.test_logging :A majore error has happened 
+2024-07-09 17:58:56,660 : CRITICAL : PytestDemo.test_logging :Critical issue 
+2024-07-09 18:28:10,239 : DEBUG : PytestDemo.test_logging :A debug statement is executed 
+2024-07-09 18:28:10,241 : INFO : PytestDemo.test_logging :information statement 
+2024-07-09 18:28:10,241 : WARNING : PytestDemo.test_logging :Something is in warning mode 
+2024-07-09 18:28:10,242 : ERROR : PytestDemo.test_logging :A majore error has happened 
+2024-07-09 18:28:10,243 : CRITICAL : PytestDemo.test_logging :Critical issue 
+2024-07-09 18:29:29,577 : DEBUG : PytestDemo.test_logging :A debug statement is executed 
+2024-07-09 18:29:29,577 : INFO : PytestDemo.test_logging :information statement 
+2024-07-09 18:29:29,578 : WARNING : PytestDemo.test_logging :Something is in warning mode 
+2024-07-09 18:29:29,578 : ERROR : PytestDemo.test_logging :A majore error has happened 
+2024-07-09 18:29:29,579 : CRITICAL : PytestDemo.test_logging :Critical issue 
+2024-07-10 20:09:23,829 : INFO : PytestDemo.htmlReport :Nirmal 
+2024-07-10 20:09:23,831 : INFO : PytestDemo.htmlReport :google.com 
+2024-07-10 20:15:27,440 : INFO : test_editProfile :Nirmal 
+2024-07-10 20:15:27,442 : INFO : test_editProfile :google.com 

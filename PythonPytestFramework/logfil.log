@@ -1,0 +1,7 @@
+2024-07-13 20:25:22,890 : INFO : test_editProfile :Nirmal 
+2024-07-13 20:25:22,890 : INFO : test_editProfile :google.com 
+2024-07-13 20:25:22,906 : DEBUG : PytestDemo.test_logging :A debug statement is executed 
+2024-07-13 20:25:22,907 : INFO : PytestDemo.test_logging :information statement 
+2024-07-13 20:25:22,908 : WARNING : PytestDemo.test_logging :Something is in warning mode 
+2024-07-13 20:25:22,908 : ERROR : PytestDemo.test_logging :A majore error has happened 
+2024-07-13 20:25:22,909 : CRITICAL : PytestDemo.test_logging :Critical issue 
